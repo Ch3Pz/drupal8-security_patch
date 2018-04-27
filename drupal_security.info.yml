@@ -1,0 +1,5 @@
+name: 'Drupal Security'
+type: module
+description: 'Manage Standard Security Processes here.'
+core: 8.x
+package: 'drupal_security'
